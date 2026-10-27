@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-27T14:53:08.853Z",
+  "videos": {
+    "hero-cinematic.mp4": true,
+    "product-orbit.mp4": true,
+    "abstract-flow.mp4": true,
+    "final-cta.mp4": true
+  },
+  "posters": {
+    "hero-cinematic.jpg": true,
+    "product-orbit.jpg": true,
+    "abstract-flow.jpg": true,
+    "final-cta.jpg": true
+  }
+}
