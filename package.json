@@ -9,6 +9,7 @@
     "prebuild": "node scripts/generate-flow-manifest.mjs",
     "start": "next start",
     "lint": "eslint",
+    "test": "node tests/run-tests.ts",
     "check:flow": "node scripts/check-flow-assets.mjs"
   },
   "dependencies": {
